@@ -1,0 +1,9 @@
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csprojAssemblyReference.cache
