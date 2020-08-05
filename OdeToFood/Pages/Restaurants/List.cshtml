@@ -32,7 +32,12 @@
         </td>
         <td>
             <a class="btn btn-lg" asp-page="./Edit" asp-route-restaurantId="@restaurant.Id">
-                <i class="glyphicon glyphicon-zoom-in"></i>
+                <i class="glyphicon glyphicon-edit"></i>
+            </a>
+        </td>
+        <td>
+            <a class="btn btn-lg" asp-page="./Delete" asp-route-restaurantId="@restaurant.Id">
+                <i class="glyphicon glyphicon-trash"></i>
             </a>
         </td>
     </tr>
@@ -41,4 +46,6 @@
 
 <a asp-page=".\Edit" class="btn btn-primary">Add new Restaurant</a>
 
+@section footer{ 
 <div>@Model.Message</div>
+    }

@@ -42,3 +42,4 @@ C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\OdeToFoo
 C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
 C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
 C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Edit.cshtml.g.cs
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Delete.cshtml.g.cs

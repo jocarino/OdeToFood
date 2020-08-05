@@ -60,7 +60,7 @@ namespace OdeToFood.Data
 
         }
 
-        public Restaurant Detele(int id)
+        public Restaurant Delete(int id)
         {
             var restaunt = restaurants.FirstOrDefault(r => r.Id == id);
             if(restaunt != null)

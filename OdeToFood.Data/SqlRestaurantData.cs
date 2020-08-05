@@ -25,7 +25,7 @@ namespace OdeToFood.Data
             return db.SaveChanges();
         }
 
-        public Restaurant Detele(int id)
+        public Restaurant Delete(int id)
         {
             var restaurant = GetById(id);
             if(restaurant != null)
