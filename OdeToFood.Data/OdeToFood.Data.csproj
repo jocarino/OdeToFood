@@ -3,9 +3,18 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.1.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.4" />
+  </ItemGroup>
 	<ItemGroup>
-		<ProjectReference
-			Include="..\OdeToFood.Core\OdeToFood.Core.csproj"></ProjectReference>
+		<ProjectReference Include="..\OdeToFood.Core\OdeToFood.Core.csproj"></ProjectReference>
 	</ItemGroup>
 
 </Project>

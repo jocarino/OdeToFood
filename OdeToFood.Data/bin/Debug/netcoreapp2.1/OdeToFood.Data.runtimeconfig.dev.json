@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jigui\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jigui\\.nuget\\packages"
+    ]
+  }
+}
